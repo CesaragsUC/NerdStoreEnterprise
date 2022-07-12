@@ -1,0 +1,13 @@
+F:\Projetos ASP.NET\ASP.NET CORE Enterprise\src\building blocks\NSE.MessageBus\bin\Debug\netcoreapp3.1\NSE.MessageBus.deps.json
+F:\Projetos ASP.NET\ASP.NET CORE Enterprise\src\building blocks\NSE.MessageBus\bin\Debug\netcoreapp3.1\NSE.MessageBus.dll
+F:\Projetos ASP.NET\ASP.NET CORE Enterprise\src\building blocks\NSE.MessageBus\bin\Debug\netcoreapp3.1\NSE.MessageBus.pdb
+F:\Projetos ASP.NET\ASP.NET CORE Enterprise\src\building blocks\NSE.MessageBus\bin\Debug\netcoreapp3.1\NSE.Core.dll
+F:\Projetos ASP.NET\ASP.NET CORE Enterprise\src\building blocks\NSE.MessageBus\bin\Debug\netcoreapp3.1\NSE.Core.pdb
+F:\Projetos ASP.NET\ASP.NET CORE Enterprise\src\building blocks\NSE.MessageBus\obj\Debug\netcoreapp3.1\NSE.MessageBus.csproj.AssemblyReference.cache
+F:\Projetos ASP.NET\ASP.NET CORE Enterprise\src\building blocks\NSE.MessageBus\obj\Debug\netcoreapp3.1\NSE.MessageBus.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projetos ASP.NET\ASP.NET CORE Enterprise\src\building blocks\NSE.MessageBus\obj\Debug\netcoreapp3.1\NSE.MessageBus.AssemblyInfoInputs.cache
+F:\Projetos ASP.NET\ASP.NET CORE Enterprise\src\building blocks\NSE.MessageBus\obj\Debug\netcoreapp3.1\NSE.MessageBus.AssemblyInfo.cs
+F:\Projetos ASP.NET\ASP.NET CORE Enterprise\src\building blocks\NSE.MessageBus\obj\Debug\netcoreapp3.1\NSE.MessageBus.csproj.CoreCompileInputs.cache
+F:\Projetos ASP.NET\ASP.NET CORE Enterprise\src\building blocks\NSE.MessageBus\obj\Debug\netcoreapp3.1\NSE.MessageBus.csproj.CopyComplete
+F:\Projetos ASP.NET\ASP.NET CORE Enterprise\src\building blocks\NSE.MessageBus\obj\Debug\netcoreapp3.1\NSE.MessageBus.dll
+F:\Projetos ASP.NET\ASP.NET CORE Enterprise\src\building blocks\NSE.MessageBus\obj\Debug\netcoreapp3.1\NSE.MessageBus.pdb

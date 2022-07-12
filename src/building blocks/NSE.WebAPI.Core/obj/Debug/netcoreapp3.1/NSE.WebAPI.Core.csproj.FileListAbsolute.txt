@@ -1,0 +1,26 @@
+C:\Users\cesar\Downloads\8 - Processo Pedido Completo\src\building blocks\NSE.WebAPI.Core\bin\Debug\netcoreapp3.1\NSE.WebAPI.Core.deps.json
+C:\Users\cesar\Downloads\8 - Processo Pedido Completo\src\building blocks\NSE.WebAPI.Core\bin\Debug\netcoreapp3.1\NSE.WebAPI.Core.dll
+C:\Users\cesar\Downloads\8 - Processo Pedido Completo\src\building blocks\NSE.WebAPI.Core\bin\Debug\netcoreapp3.1\NSE.WebAPI.Core.pdb
+C:\Users\cesar\Downloads\8 - Processo Pedido Completo\src\building blocks\NSE.WebAPI.Core\bin\Debug\netcoreapp3.1\NSE.Core.dll
+C:\Users\cesar\Downloads\8 - Processo Pedido Completo\src\building blocks\NSE.WebAPI.Core\bin\Debug\netcoreapp3.1\NSE.Core.pdb
+C:\Users\cesar\Downloads\8 - Processo Pedido Completo\src\building blocks\NSE.WebAPI.Core\obj\Debug\netcoreapp3.1\NSE.WebAPI.Core.csproj.AssemblyReference.cache
+C:\Users\cesar\Downloads\8 - Processo Pedido Completo\src\building blocks\NSE.WebAPI.Core\obj\Debug\netcoreapp3.1\NSE.WebAPI.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cesar\Downloads\8 - Processo Pedido Completo\src\building blocks\NSE.WebAPI.Core\obj\Debug\netcoreapp3.1\NSE.WebAPI.Core.AssemblyInfoInputs.cache
+C:\Users\cesar\Downloads\8 - Processo Pedido Completo\src\building blocks\NSE.WebAPI.Core\obj\Debug\netcoreapp3.1\NSE.WebAPI.Core.AssemblyInfo.cs
+C:\Users\cesar\Downloads\8 - Processo Pedido Completo\src\building blocks\NSE.WebAPI.Core\obj\Debug\netcoreapp3.1\NSE.WebAPI.Core.csproj.CoreCompileInputs.cache
+C:\Users\cesar\Downloads\8 - Processo Pedido Completo\src\building blocks\NSE.WebAPI.Core\obj\Debug\netcoreapp3.1\NSE.WebAPI.Core.csproj.CopyComplete
+C:\Users\cesar\Downloads\8 - Processo Pedido Completo\src\building blocks\NSE.WebAPI.Core\obj\Debug\netcoreapp3.1\NSE.WebAPI.Core.dll
+C:\Users\cesar\Downloads\8 - Processo Pedido Completo\src\building blocks\NSE.WebAPI.Core\obj\Debug\netcoreapp3.1\NSE.WebAPI.Core.pdb
+F:\Projetos ASP.NET\ASP.NET CORE Enterprise\src\building blocks\NSE.WebAPI.Core\bin\Debug\netcoreapp3.1\NSE.WebAPI.Core.deps.json
+F:\Projetos ASP.NET\ASP.NET CORE Enterprise\src\building blocks\NSE.WebAPI.Core\bin\Debug\netcoreapp3.1\NSE.WebAPI.Core.dll
+F:\Projetos ASP.NET\ASP.NET CORE Enterprise\src\building blocks\NSE.WebAPI.Core\bin\Debug\netcoreapp3.1\NSE.WebAPI.Core.pdb
+F:\Projetos ASP.NET\ASP.NET CORE Enterprise\src\building blocks\NSE.WebAPI.Core\bin\Debug\netcoreapp3.1\NSE.Core.dll
+F:\Projetos ASP.NET\ASP.NET CORE Enterprise\src\building blocks\NSE.WebAPI.Core\bin\Debug\netcoreapp3.1\NSE.Core.pdb
+F:\Projetos ASP.NET\ASP.NET CORE Enterprise\src\building blocks\NSE.WebAPI.Core\obj\Debug\netcoreapp3.1\NSE.WebAPI.Core.csproj.AssemblyReference.cache
+F:\Projetos ASP.NET\ASP.NET CORE Enterprise\src\building blocks\NSE.WebAPI.Core\obj\Debug\netcoreapp3.1\NSE.WebAPI.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projetos ASP.NET\ASP.NET CORE Enterprise\src\building blocks\NSE.WebAPI.Core\obj\Debug\netcoreapp3.1\NSE.WebAPI.Core.AssemblyInfoInputs.cache
+F:\Projetos ASP.NET\ASP.NET CORE Enterprise\src\building blocks\NSE.WebAPI.Core\obj\Debug\netcoreapp3.1\NSE.WebAPI.Core.AssemblyInfo.cs
+F:\Projetos ASP.NET\ASP.NET CORE Enterprise\src\building blocks\NSE.WebAPI.Core\obj\Debug\netcoreapp3.1\NSE.WebAPI.Core.csproj.CoreCompileInputs.cache
+F:\Projetos ASP.NET\ASP.NET CORE Enterprise\src\building blocks\NSE.WebAPI.Core\obj\Debug\netcoreapp3.1\NSE.WebAPI.Core.csproj.CopyComplete
+F:\Projetos ASP.NET\ASP.NET CORE Enterprise\src\building blocks\NSE.WebAPI.Core\obj\Debug\netcoreapp3.1\NSE.WebAPI.Core.dll
+F:\Projetos ASP.NET\ASP.NET CORE Enterprise\src\building blocks\NSE.WebAPI.Core\obj\Debug\netcoreapp3.1\NSE.WebAPI.Core.pdb

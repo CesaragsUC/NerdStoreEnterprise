@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "dVuauIApmORxgzE3Aq9nc0LSrUn6h2+1xjYpNcnGviWOu4e8/eeqL1+si53m7Re4cx/6oDhVKVfHRwy4g/R7Ww==",
+  "success": true,
+  "projectFilePath": "F:\\Projetos ASP.NET\\NerdStoreEnterprise\\src\\building blocks\\NSE.Core\\NSE.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cesar\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\mediatr\\8.0.1\\mediatr.8.0.1.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.23\\microsoft.extensions.configuration.abstractions.3.1.23.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.23\\microsoft.extensions.primitives.3.1.23.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,39 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+	<PropertyGroup>
+		<TargetFramework>netcoreapp3.1</TargetFramework>
+		<UserSecretsId>6191225a-dfe6-4498-b43e-6fac0f3d6fa0</UserSecretsId>
+		<DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+		<DockerfileContext>..\..\..</DockerfileContext>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="3.1.23" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.1.23">
+		  <PrivateAssets>all</PrivateAssets>
+		  <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+		</PackageReference>
+		<PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.23">
+		  <PrivateAssets>all</PrivateAssets>
+		  <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+		</PackageReference>
+		<PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.11.1" />
+		<PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.1.23" />
+		<PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="3.1.23" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.23" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore.Abstractions" Version="3.1.23" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore.Relational" Version="3.1.23" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.23" />
+		<PackageReference Include="NetDevPack.Security.JwtSigningCredentials.AspNetCore" Version="1.0.3" />
+		<PackageReference Include="NetDevPack.Security.JwtSigningCredentials.Store.EntityFrameworkCore" Version="1.0.3" />
+		<PackageReference Include="Swashbuckle.AspNetCore" Version="5.3.3" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <ProjectReference Include="..\..\building blocks\NSE.Core\NSE.Core.csproj" />
+	  <ProjectReference Include="..\..\building blocks\NSE.WebAPI.Core\NSE.WebAPI.Core.csproj" />
+	  <ProjectReference Include="..\NSE.Clientes.API\NSE.Clientes.API.csproj" />
+	</ItemGroup>
+
+
+</Project>
