@@ -1,22 +1,12 @@
 ﻿using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.Options;
-using Microsoft.IdentityModel.Tokens;
 using NSE.Core.Messages.Integration;
 using NSE.Identidade.API.Models;
+using NSE.Identidade.API.Services;
 using NSE.MessageBus;
 using NSE.WebAPI.Core.Controllers;
-using NSE.WebAPI.Core.Identidade;
-using NSE.WebAPI.Core.Usuario;
 using System;
-using System.Collections.Generic;
-using System.IdentityModel.Tokens.Jwt;
-using System.Linq;
-using System.Security.Claims;
-using System.Text;
 using System.Threading.Tasks;
-using NetDevPack.Security.JwtSigningCredentials.Interfaces;
-using NSE.Identidade.API.Services;
 
 namespace NSE.Identidade.API.Controllers
 {
@@ -104,7 +94,7 @@ namespace NSE.Identidade.API.Controllers
             {
                 return await _bus.RequestAsync<UsuarioRegistradoIntegrationEvent, ResponseMessage>(usuarioRegistrado);
             }
-            catch
+            catch(Exception ex)
             {
                 await _authenticationService.UserManager.DeleteAsync(usuario);
                 throw;

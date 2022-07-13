@@ -36,19 +36,6 @@
           "lib/netstandard2.0/MediatR.dll": {}
         }
       },
-      "MediatR.Extensions.Microsoft.DependencyInjection/8.0.0": {
-        "type": "package",
-        "dependencies": {
-          "MediatR": "8.0.0",
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "2.0.0"
-        },
-        "compile": {
-          "lib/netstandard2.0/MediatR.Extensions.Microsoft.DependencyInjection.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard2.0/MediatR.Extensions.Microsoft.DependencyInjection.dll": {}
-        }
-      },
       "Microsoft.AspNetCore.Authentication.JwtBearer/3.1.23": {
         "type": "package",
         "dependencies": {
@@ -1901,31 +1888,6 @@
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
       },
-      "NSE.Clientes.API/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "dependencies": {
-          "MediatR.Extensions.Microsoft.DependencyInjection": "8.0.0",
-          "Microsoft.EntityFrameworkCore": "3.1.23",
-          "Microsoft.EntityFrameworkCore.Abstractions": "3.1.23",
-          "Microsoft.EntityFrameworkCore.Relational": "3.1.23",
-          "Microsoft.EntityFrameworkCore.SqlServer": "3.1.23",
-          "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": "1.11.1",
-          "NSE.Core": "1.0.0",
-          "NSE.MessageBus": "1.0.0",
-          "NSE.WebAPI.Core": "1.0.0",
-          "Swashbuckle.AspNetCore": "5.3.3"
-        },
-        "compile": {
-          "bin/placeholder/NSE.Clientes.API.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/NSE.Clientes.API.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.AspNetCore.App"
-        ]
-      },
       "NSE.Core/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -2027,18 +1989,6 @@
         "lib/netstandard2.0/MediatR.xml",
         "mediatr.8.0.1.nupkg.sha512",
         "mediatr.nuspec"
-      ]
-    },
-    "MediatR.Extensions.Microsoft.DependencyInjection/8.0.0": {
-      "sha512": "qGa+dbfrpk6y01swgc0uM+jG5tkb5xVeY1P4iByd3NQCDO7nmrMBnBRoMGhKlSigQ6iWXDiwOpzC01W4xrJxLg==",
-      "type": "package",
-      "path": "mediatr.extensions.microsoft.dependencyinjection/8.0.0",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "lib/netstandard2.0/MediatR.Extensions.Microsoft.DependencyInjection.dll",
-        "mediatr.extensions.microsoft.dependencyinjection.8.0.0.nupkg.sha512",
-        "mediatr.extensions.microsoft.dependencyinjection.nuspec"
       ]
     },
     "Microsoft.AspNetCore.Authentication.JwtBearer/3.1.23": {
@@ -6724,11 +6674,6 @@
         "system.xml.xmlserializer.nuspec"
       ]
     },
-    "NSE.Clientes.API/1.0.0": {
-      "type": "project",
-      "path": "../NSE.Clientes.API/NSE.Clientes.API.csproj",
-      "msbuildProject": "../NSE.Clientes.API/NSE.Clientes.API.csproj"
-    },
     "NSE.Core/1.0.0": {
       "type": "project",
       "path": "../../building blocks/NSE.Core/NSE.Core.csproj",
@@ -6757,8 +6702,8 @@
       "Microsoft.EntityFrameworkCore.SqlServer >= 3.1.23",
       "Microsoft.EntityFrameworkCore.Tools >= 3.1.23",
       "Microsoft.VisualStudio.Azure.Containers.Tools.Targets >= 1.11.1",
-      "NSE.Clientes.API >= 1.0.0",
       "NSE.Core >= 1.0.0",
+      "NSE.MessageBus >= 1.0.0",
       "NSE.WebAPI.Core >= 1.0.0",
       "NetDevPack.Security.JwtSigningCredentials.AspNetCore >= 1.0.3",
       "NetDevPack.Security.JwtSigningCredentials.Store.EntityFrameworkCore >= 1.0.3",
@@ -6802,11 +6747,11 @@
             "F:\\Projetos ASP.NET\\NerdStoreEnterprise\\src\\building blocks\\NSE.Core\\NSE.Core.csproj": {
               "projectPath": "F:\\Projetos ASP.NET\\NerdStoreEnterprise\\src\\building blocks\\NSE.Core\\NSE.Core.csproj"
             },
+            "F:\\Projetos ASP.NET\\NerdStoreEnterprise\\src\\building blocks\\NSE.MessageBus\\NSE.MessageBus.csproj": {
+              "projectPath": "F:\\Projetos ASP.NET\\NerdStoreEnterprise\\src\\building blocks\\NSE.MessageBus\\NSE.MessageBus.csproj"
+            },
             "F:\\Projetos ASP.NET\\NerdStoreEnterprise\\src\\building blocks\\NSE.WebAPI.Core\\NSE.WebAPI.Core.csproj": {
               "projectPath": "F:\\Projetos ASP.NET\\NerdStoreEnterprise\\src\\building blocks\\NSE.WebAPI.Core\\NSE.WebAPI.Core.csproj"
-            },
-            "F:\\Projetos ASP.NET\\NerdStoreEnterprise\\src\\services\\NSE.Clientes.API\\NSE.Clientes.API.csproj": {
-              "projectPath": "F:\\Projetos ASP.NET\\NerdStoreEnterprise\\src\\services\\NSE.Clientes.API\\NSE.Clientes.API.csproj"
             }
           }
         }

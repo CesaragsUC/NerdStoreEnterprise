@@ -25,9 +25,9 @@ namespace NSE.WebAPI.Core.Identidade
                 x.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
             }).AddJwtBearer(x =>
             {
-                x.RequireHttpsMetadata = true;
+                x.RequireHttpsMetadata = false;
                 x.SaveToken = true;
-                x.SetJwksOptions(new JwkOptions(appSettings.AutenticacaoJwsUrl));
+                x.SetJwksOptions(new JwkOptions(appSettings.AutenticacaoJwksUrl));
 
             });
         }

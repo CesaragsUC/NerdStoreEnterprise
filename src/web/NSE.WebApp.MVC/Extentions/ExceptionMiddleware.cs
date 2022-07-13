@@ -41,7 +41,7 @@ namespace NSE.WebApp.MVC.Extentions
             {
                 HandleRequestExceptionAsync(httpContext, ex.StatusCode);
             }
-            catch (BrokenCircuitException)
+            catch (BrokenCircuitException ex)
             {
                 HandleCircuitBreakerExceptionAsync(httpContext);
             }
